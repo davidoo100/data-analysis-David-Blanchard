@@ -1,0 +1,10 @@
+# Matrice principale
+source("./data-analysis-David-Blanchard/project/scr/MATRICE_PRINCIPALE.R")
+# CLIMATE
+source("./data-analysis-David-Blanchard/project/scr/CLIMAT.R")
+# ELEVATION
+source("./data-analysis-David-Blanchard/project/scr/ELEVATION.R")
+# ECOSYSTEM
+source("./data-analysis-David-Blanchard/project/scr/ECOSYSTEM.R")
+# NDVI  
+source("./data-analysis-David-Blanchard/project/scr/NDVI.R")

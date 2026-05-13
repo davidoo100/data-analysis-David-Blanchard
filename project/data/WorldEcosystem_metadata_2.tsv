@@ -1,0 +1,432 @@
+Value	Temperatur	Moisture	Landcover	Landforms	Climate_Re	Red	Green	Blue	W_Ecosystm	color
+1	Polar	Moist	Sparsely or Non vegetated	Plains	Polar Moist	223	202	154	Polar Moist Sparsely or Non vegetated on Plains	#DFCA9A
+2	Polar	Moist	Snow and Ice	Plains	Polar Moist	255	255	255	Polar Moist Snow and Ice on Plains	#FFFFFF
+3	Polar	Dry	Snow and Ice	Mountains	Polar Dry	255	255	255	Polar Dry Snow and Ice on Mountains	#FFFFFF
+4	Polar	Dry	Sparsely or Non vegetated	Mountains	Polar Dry	176	172	164	Polar Dry Sparsely or Non vegetated on Mountains	#B0ACA4
+5	Polar	Moist	Sparsely or Non vegetated	Mountains	Polar Moist	156	150	138	Polar Moist Sparsely or Non vegetated on Mountains	#9C968A
+6	Polar	Moist	Snow and Ice	Mountains	Polar Moist	255	255	255	Polar Moist Snow and Ice on Mountains	#FFFFFF
+7	Polar	Dry	Sparsely or Non vegetated	Tablelands	Polar Dry	137	155	208	Polar Dry Sparsely or Non vegetated on Tablelands	#899BD0
+8	Polar	Dry	Snow and Ice	Tablelands	Polar Dry	255	255	255	Polar Dry Snow and Ice on Tablelands	#FFFFFF
+9	Polar	Dry	Snow and Ice	Plains	Polar Dry	255	255	255	Polar Dry Snow and Ice on Plains	#FFFFFF
+10	Polar	Moist	Sparsely or Non vegetated	Tablelands	Polar Moist	111	133	202	Polar Moist Sparsely or Non vegetated on Tablelands	#6F85CA
+11	Polar	Moist	Snow and Ice	Tablelands	Polar Moist	255	255	255	Polar Moist Snow and Ice on Tablelands	#FFFFFF
+12	Polar	Dry	Sparsely or Non vegetated	Hills	Polar Dry	166	159	115	Polar Dry Sparsely or Non vegetated on Hills	#A69F73
+13	Polar	Dry	Snow and Ice	Hills	Polar Dry	255	255	255	Polar Dry Snow and Ice on Hills	#FFFFFF
+14	Polar	Dry	Sparsely or Non vegetated	Plains	Polar Dry	232	214	173	Polar Dry Sparsely or Non vegetated on Plains	#E8D6AD
+15	Polar	Moist	Snow and Ice	Hills	Polar Moist	255	255	255	Polar Moist Snow and Ice on Hills	#FFFFFF
+16	Polar	Moist	Sparsely or Non vegetated	Hills	Polar Moist	146	138	86	Polar Moist Sparsely or Non vegetated on Hills	#928A56
+17	Polar	Dry	Grassland	Mountains	Polar Dry	203	184	154	Polar Dry Grassland on Mountains	#CBB89A
+18	Polar	Moist	Grassland	Mountains	Polar Moist	191	167	132	Polar Moist Grassland on Mountains	#BFA784
+19	Polar	Moist	Shrubland	Plains	Polar Moist	186	175	126	Polar Moist Shrubland on Plains	#BAAF7E
+20	Polar	Moist	Shrubland	Hills	Polar Moist	165	139	51	Polar Moist Shrubland on Hills	#A58B33
+21	Polar	Moist	Grassland	Hills	Polar Moist	179	172	82	Polar Moist Grassland on Hills	#B3AC52
+22	Polar	Moist	Grassland	Plains	Polar Moist	201	197	167	Polar Moist Grassland on Plains	#C9C5A7
+23	Polar	Dry	Grassland	Hills	Polar Dry	195	187	112	Polar Dry Grassland on Hills	#C3BB70
+24	Polar	Moist	Shrubland	Tablelands	Polar Moist	102	110	136	Polar Moist Shrubland on Tablelands	#666E88
+25	Polar	Moist	Shrubland	Mountains	Polar Moist	142	67	20	Polar Moist Shrubland on Mountains	#8E4314
+26	Polar	Moist	Grassland	Tablelands	Polar Moist	72	82	120	Polar Moist Grassland on Tablelands	#485278
+27	Polar	Moist	Forest	Plains	Polar Moist	237	237	159	Polar Moist Forest on Plains	#EDED9F
+28	Polar	Moist	Forest	Hills	Polar Moist	141	149	103	Polar Moist Forest on Hills	#8D9567
+29	Polar	Moist	Forest	Mountains	Polar Moist	107	103	74	Polar Moist Forest on Mountains	#6B674A
+30	Polar	Moist	Forest	Tablelands	Polar Moist	128	110	218	Polar Moist Forest on Tablelands	#806EDA
+31	Polar	Dry	Grassland	Plains	Polar Dry	214	208	186	Polar Dry Grassland on Plains	#D6D0BA
+32	Polar	Dry	Shrubland	Hills	Polar Dry	200	191	150	Polar Dry Shrubland on Hills	#C8BF96
+33	Polar	Moist	Settlement	Mountains	Polar Moist	117	102	100	Polar Moist Settlement on Mountains	#756664
+34	Polar	Dry	Shrubland	Plains	Polar Dry	201	193	151	Polar Dry Shrubland on Plains	#C9C197
+35	Polar	Dry	Shrubland	Tablelands	Polar Dry	129	136	156	Polar Dry Shrubland on Tablelands	#81889C
+36	Polar	Dry	Forest	Plains	Polar Dry	242	241	173	Polar Dry Forest on Plains	#F2F1AD
+37	Polar	Moist	Cropland	Hills	Polar Moist	203	205	130	Polar Moist Cropland on Hills	#CBCD82
+38	Polar	Dry	Grassland	Tablelands	Polar Dry	102	111	148	Polar Dry Grassland on Tablelands	#666F94
+39	Polar	Moist	Cropland	Mountains	Polar Moist	166	133	68	Polar Moist Cropland on Mountains	#A68544
+40	Polar	Moist	Cropland	Plains	Polar Moist	200	200	157	Polar Moist Cropland on Plains	#C8C89D
+41	Polar	Dry	Shrubland	Mountains	Polar Dry	165	99	53	Polar Dry Shrubland on Mountains	#A56335
+42	Polar	Moist	Cropland	Tablelands	Polar Moist	124	131	206	Polar Moist Cropland on Tablelands	#7C83CE
+43	Polar	Dry	Forest	Hills	Polar Dry	175	180	131	Polar Dry Forest on Hills	#AFB483
+44	Polar	Dry	Forest	Tablelands	Polar Dry	149	136	221	Polar Dry Forest on Tablelands	#9588DD
+45	Boreal	Moist	Sparsely or Non vegetated	Plains	Boreal Moist	9	57	57	Boreal Moist Sparsely or Non vegetated on Plains	#093939
+46	Boreal	Moist	Grassland	Plains	Boreal Moist	45	96	95	Boreal Moist Grassland on Plains	#2D605F
+47	Boreal	Moist	Sparsely or Non vegetated	Hills	Boreal Moist	46	108	107	Boreal Moist Sparsely or Non vegetated on Hills	#2E6C6B
+48	Boreal	Moist	Grassland	Hills	Boreal Moist	16	81	68	Boreal Moist Grassland on Hills	#105144
+49	Boreal	Moist	Shrubland	Hills	Boreal Moist	28	70	22	Boreal Moist Shrubland on Hills	#1C4616
+50	Boreal	Moist	Forest	Hills	Boreal Moist	0	93	49	Boreal Moist Forest on Hills	#005D31
+51	Boreal	Moist	Sparsely or Non vegetated	Mountains	Boreal Moist	28	131	159	Boreal Moist Sparsely or Non vegetated on Mountains	#1C839F
+52	Boreal	Moist	Shrubland	Plains	Boreal Moist	35	81	70	Boreal Moist Shrubland on Plains	#235146
+53	Boreal	Moist	Forest	Plains	Boreal Moist	0	70	4	Boreal Moist Forest on Plains	#004604
+54	Boreal	Moist	Shrubland	Mountains	Boreal Moist	1	105	0	Boreal Moist Shrubland on Mountains	#016900
+55	Boreal	Moist	Forest	Mountains	Boreal Moist	6	92	79	Boreal Moist Forest on Mountains	#065C4F
+56	Boreal	Moist	Grassland	Mountains	Boreal Moist	1	107	0	Boreal Moist Grassland on Mountains	#016B00
+57	Boreal	Moist	Sparsely or Non vegetated	Tablelands	Boreal Moist	110	117	165	Boreal Moist Sparsely or Non vegetated on Tablelands	#6E75A5
+58	Boreal	Moist	Shrubland	Tablelands	Boreal Moist	82	70	227	Boreal Moist Shrubland on Tablelands	#5246E3
+59	Boreal	Moist	Grassland	Tablelands	Boreal Moist	33	48	114	Boreal Moist Grassland on Tablelands	#213072
+60	Boreal	Moist	Cropland	Hills	Boreal Moist	46	149	121	Boreal Moist Cropland on Hills	#2E9579
+61	Polar	Dry	Cropland	Plains	Polar Dry	214	211	176	Polar Dry Cropland on Plains	#D6D3B0
+62	Boreal	Moist	Cropland	Plains	Boreal Moist	38	81	93	Boreal Moist Cropland on Plains	#26515D
+63	Boreal	Moist	Forest	Tablelands	Boreal Moist	45	59	118	Boreal Moist Forest on Tablelands	#2D3B76
+64	Polar	Moist	Settlement	Plains	Polar Moist	209	179	165	Polar Moist Settlement on Plains	#D1B3A5
+65	Polar	Dry	Forest	Mountains	Polar Dry	133	127	98	Polar Dry Forest on Mountains	#857F62
+66	Boreal	Dry	Sparsely or Non vegetated	Plains	Boreal Dry	41	91	91	Boreal Dry Sparsely or Non vegetated on Plains	#295B5B
+67	Boreal	Moist	Cropland	Mountains	Boreal Moist	51	103	54	Boreal Moist Cropland on Mountains	#336736
+68	Boreal	Dry	Forest	Plains	Boreal Dry	12	102	33	Boreal Dry Forest on Plains	#0C6621
+69	Boreal	Dry	Shrubland	Plains	Boreal Dry	70	111	100	Boreal Dry Shrubland on Plains	#466F64
+70	Boreal	Dry	Sparsely or Non vegetated	Hills	Boreal Dry	79	135	133	Boreal Dry Sparsely or Non vegetated on Hills	#4F8785
+71	Boreal	Dry	Shrubland	Hills	Boreal Dry	61	100	56	Boreal Dry Shrubland on Hills	#3D6438
+72	Boreal	Dry	Forest	Hills	Boreal Dry	25	122	83	Boreal Dry Forest on Hills	#197A53
+73	Boreal	Moist	Cropland	Tablelands	Boreal Moist	117	111	218	Boreal Moist Cropland on Tablelands	#756FDA
+74	Boreal	Dry	Grassland	Hills	Boreal Dry	50	111	99	Boreal Dry Grassland on Hills	#326F63
+75	Boreal	Dry	Grassland	Plains	Boreal Dry	79	124	121	Boreal Dry Grassland on Plains	#4F7C79
+76	Polar	Dry	Cropland	Hills	Polar Dry	214	215	152	Polar Dry Cropland on Hills	#D6D798
+77	Boreal	Dry	Cropland	Plains	Boreal Dry	69	112	121	Boreal Dry Cropland on Plains	#457079
+78	Boreal	Dry	Sparsely or Non vegetated	Tablelands	Boreal Dry	138	143	183	Boreal Dry Sparsely or Non vegetated on Tablelands	#8A8FB7
+79	Polar	Dry	Cropland	Mountains	Polar Dry	182	155	99	Polar Dry Cropland on Mountains	#B69B63
+80	Polar	Dry	Cropland	Tablelands	Polar Dry	150	154	218	Polar Dry Cropland on Tablelands	#969ADA
+81	Boreal	Dry	Shrubland	Tablelands	Boreal Dry	77	81	186	Boreal Dry Shrubland on Tablelands	#4D51BA
+82	Boreal	Dry	Forest	Tablelands	Boreal Dry	75	92	141	Boreal Dry Forest on Tablelands	#4B5C8D
+83	Boreal	Dry	Grassland	Tablelands	Boreal Dry	67	80	138	Boreal Dry Grassland on Tablelands	#43508A
+84	Boreal	Dry	Settlement	Plains	Boreal Dry	145	170	133	Boreal Dry Settlement on Plains	#91AA85
+85	Boreal	Dry	Cropland	Hills	Boreal Dry	80	170	143	Boreal Dry Cropland on Hills	#50AA8F
+86	Boreal	Moist	Settlement	Plains	Boreal Moist	120	149	105	Boreal Moist Settlement on Plains	#789569
+87	Boreal	Moist	Settlement	Hills	Boreal Moist	47	127	108	Boreal Moist Settlement on Hills	#2F7F6C
+88	Boreal	Dry	Sparsely or Non vegetated	Mountains	Boreal Dry	60	154	177	Boreal Dry Sparsely or Non vegetated on Mountains	#3C9AB1
+89	Boreal	Dry	Grassland	Mountains	Boreal Dry	54	148	33	Boreal Dry Grassland on Mountains	#369421
+90	Boreal	Dry	Forest	Mountains	Boreal Dry	35	119	109	Boreal Dry Forest on Mountains	#23776D
+91	Boreal	Dry	Cropland	Tablelands	Boreal Dry	144	138	227	Boreal Dry Cropland on Tablelands	#908AE3
+92	Boreal	Dry	Shrubland	Mountains	Boreal Dry	57	149	22	Boreal Dry Shrubland on Mountains	#399516
+93	Boreal	Dry	Cropland	Mountains	Boreal Dry	84	130	86	Boreal Dry Cropland on Mountains	#548256
+94	Boreal	Moist	Settlement	Tablelands	Boreal Moist	86	93	177	Boreal Moist Settlement on Tablelands	#565DB1
+95	Polar	Dry	Settlement	Plains	Polar Dry	218	194	184	Polar Dry Settlement on Plains	#DAC2B8
+96	Cool Temperate	Moist	Shrubland	Mountains	Cool Temperate Moist	35	83	0	Cool Temperate Moist Shrubland on Mountains	#235300
+97	Cool Temperate	Moist	Forest	Mountains	Cool Temperate Moist	6	64	0	Cool Temperate Moist Forest on Mountains	#064000
+98	Cool Temperate	Moist	Sparsely or Non vegetated	Mountains	Cool Temperate Moist	56	103	5	Cool Temperate Moist Sparsely or Non vegetated on Mountains	#386705
+99	Cool Temperate	Moist	Sparsely or Non vegetated	Tablelands	Cool Temperate Moist	45	47	108	Cool Temperate Moist Sparsely or Non vegetated on Tablelands	#2D2F6C
+100	Cool Temperate	Moist	Shrubland	Tablelands	Cool Temperate Moist	124	135	216	Cool Temperate Moist Shrubland on Tablelands	#7C87D8
+101	Cool Temperate	Moist	Forest	Tablelands	Cool Temperate Moist	71	89	181	Cool Temperate Moist Forest on Tablelands	#4759B5
+102	Cool Temperate	Moist	Cropland	Tablelands	Cool Temperate Moist	99	97	160	Cool Temperate Moist Cropland on Tablelands	#6361A0
+103	Cool Temperate	Moist	Cropland	Mountains	Cool Temperate Moist	33	102	5	Cool Temperate Moist Cropland on Mountains	#216605
+104	Cool Temperate	Moist	Sparsely or Non vegetated	Hills	Cool Temperate Moist	57	144	31	Cool Temperate Moist Sparsely or Non vegetated on Hills	#39901F
+105	Cool Temperate	Moist	Forest	Hills	Cool Temperate Moist	2	99	1	Cool Temperate Moist Forest on Hills	#026301
+106	Cool Temperate	Moist	Shrubland	Hills	Cool Temperate Moist	23	123	2	Cool Temperate Moist Shrubland on Hills	#177B02
+107	Cool Temperate	Moist	Grassland	Mountains	Cool Temperate Moist	26	83	0	Cool Temperate Moist Grassland on Mountains	#1A5300
+108	Cool Temperate	Moist	Settlement	Hills	Cool Temperate Moist	67	109	14	Cool Temperate Moist Settlement on Hills	#436D0E
+109	Cool Temperate	Moist	Grassland	Tablelands	Cool Temperate Moist	78	92	155	Cool Temperate Moist Grassland on Tablelands	#4E5C9B
+110	Cool Temperate	Moist	Cropland	Hills	Cool Temperate Moist	33	144	30	Cool Temperate Moist Cropland on Hills	#21901E
+111	Cool Temperate	Moist	Forest	Plains	Cool Temperate Moist	1	109	0	Cool Temperate Moist Forest on Plains	#016D00
+112	Cool Temperate	Moist	Sparsely or Non vegetated	Plains	Cool Temperate Moist	55	154	10	Cool Temperate Moist Sparsely or Non vegetated on Plains	#379A0A
+113	Cool Temperate	Moist	Settlement	Mountains	Cool Temperate Moist	61	67	0	Cool Temperate Moist Settlement on Mountains	#3D4300
+114	Cool Temperate	Moist	Grassland	Hills	Cool Temperate Moist	22	124	10	Cool Temperate Moist Grassland on Hills	#167C0A
+115	Cool Temperate	Moist	Shrubland	Plains	Cool Temperate Moist	26	131	0	Cool Temperate Moist Shrubland on Plains	#1A8300
+116	Cool Temperate	Moist	Cropland	Plains	Cool Temperate Moist	29	153	10	Cool Temperate Moist Cropland on Plains	#1D990A
+117	Boreal	Dry	Settlement	Hills	Boreal Dry	80	150	136	Boreal Dry Settlement on Hills	#509688
+118	Cool Temperate	Moist	Snow and Ice	Mountains	Cool Temperate Moist	255	255	255	Cool Temperate Moist Snow and Ice on Mountains	#FFFFFF
+119	Polar	Dry	Settlement	Mountains	Polar Dry	144	129	128	Polar Dry Settlement on Mountains	#908180
+120	Cool Temperate	Moist	Settlement	Plains	Cool Temperate Moist	78	119	2	Cool Temperate Moist Settlement on Plains	#4E7702
+121	Boreal	Moist	Settlement	Mountains	Boreal Moist	34	93	1	Boreal Moist Settlement on Mountains	#225D01
+122	Boreal	Dry	Settlement	Mountains	Boreal Dry	102	139	34	Boreal Dry Settlement on Mountains	#668B22
+123	Boreal	Dry	Settlement	Tablelands	Boreal Dry	112	123	195	Boreal Dry Settlement on Tablelands	#707BC3
+124	Boreal	Moist	Snow and Ice	Mountains	Boreal Moist	255	255	255	Boreal Moist Snow and Ice on Mountains	#FFFFFF
+125	Boreal	Moist	Snow and Ice	Hills	Boreal Moist	255	255	255	Boreal Moist Snow and Ice on Hills	#FFFFFF
+126	Boreal	Moist	Snow and Ice	Plains	Boreal Moist	255	255	255	Boreal Moist Snow and Ice on Plains	#FFFFFF
+127	Polar	Moist	Settlement	Hills	Polar Moist	172	154	138	Polar Moist Settlement on Hills	#AC9A8A
+128	Cool Temperate	Moist	Grassland	Plains	Cool Temperate Moist	22	133	0	Cool Temperate Moist Grassland on Plains	#168500
+129	Cool Temperate	Moist	Settlement	Tablelands	Cool Temperate Moist	47	63	130	Cool Temperate Moist Settlement on Tablelands	#2F3F82
+130	Boreal	Dry	Snow and Ice	Mountains	Boreal Dry	255	255	255	Boreal Dry Snow and Ice on Mountains	#FFFFFF
+131	Boreal	Moist	Snow and Ice	Tablelands	Boreal Moist	255	255	255	Boreal Moist Snow and Ice on Tablelands	#FFFFFF
+132	Cool Temperate	Moist	Snow and Ice	Plains	Cool Temperate Moist	255	255	255	Cool Temperate Moist Snow and Ice on Plains	#FFFFFF
+133	Cool Temperate	Moist	Snow and Ice	Tablelands	Cool Temperate Moist	255	255	255	Cool Temperate Moist Snow and Ice on Tablelands	#FFFFFF
+134	Cool Temperate	Moist	Snow and Ice	Hills	Cool Temperate Moist	255	255	255	Cool Temperate Moist Snow and Ice on Hills	#FFFFFF
+135	Cool Temperate	Dry	Sparsely or Non vegetated	Mountains	Cool Temperate Dry	116	149	49	Cool Temperate Dry Sparsely or Non vegetated on Mountains	#749531
+136	Cool Temperate	Dry	Shrubland	Mountains	Cool Temperate Dry	95	131	22	Cool Temperate Dry Shrubland on Mountains	#5F8316
+137	Cool Temperate	Dry	Forest	Mountains	Cool Temperate Dry	54	113	21	Cool Temperate Dry Forest on Mountains	#367115
+138	Cool Temperate	Dry	Forest	Plains	Cool Temperate Dry	47	155	22	Cool Temperate Dry Forest on Plains	#2F9B16
+139	Cool Temperate	Dry	Forest	Hills	Cool Temperate Dry	48	148	38	Cool Temperate Dry Forest on Hills	#309426
+140	Cool Temperate	Dry	Forest	Tablelands	Cool Temperate Dry	102	121	176	Cool Temperate Dry Forest on Tablelands	#6679B0
+141	Cool Temperate	Dry	Shrubland	Tablelands	Cool Temperate Dry	146	159	198	Cool Temperate Dry Shrubland on Tablelands	#929FC6
+142	Cool Temperate	Dry	Grassland	Mountains	Cool Temperate Dry	82	134	31	Cool Temperate Dry Grassland on Mountains	#52861F
+143	Cool Temperate	Dry	Shrubland	Hills	Cool Temperate Dry	79	166	40	Cool Temperate Dry Shrubland on Hills	#4FA628
+144	Cool Temperate	Dry	Shrubland	Plains	Cool Temperate Dry	89	176	22	Cool Temperate Dry Shrubland on Plains	#59B016
+145	Cool Temperate	Dry	Cropland	Plains	Cool Temperate Dry	89	191	56	Cool Temperate Dry Cropland on Plains	#59BF38
+146	Cool Temperate	Dry	Cropland	Hills	Cool Temperate Dry	97	186	84	Cool Temperate Dry Cropland on Hills	#61BA54
+147	Cool Temperate	Dry	Sparsely or Non vegetated	Hills	Cool Temperate Dry	119	186	84	Cool Temperate Dry Sparsely or Non vegetated on Hills	#77BA54
+148	Cool Temperate	Dry	Cropland	Mountains	Cool Temperate Dry	94	148	49	Cool Temperate Dry Cropland on Mountains	#5E9431
+149	Cool Temperate	Dry	Grassland	Hills	Cool Temperate Dry	77	164	57	Cool Temperate Dry Grassland on Hills	#4DA439
+150	Cool Temperate	Dry	Cropland	Tablelands	Cool Temperate Dry	128	127	176	Cool Temperate Dry Cropland on Tablelands	#807FB0
+151	Cool Temperate	Dry	Sparsely or Non vegetated	Plains	Cool Temperate Dry	120	194	58	Cool Temperate Dry Sparsely or Non vegetated on Plains	#78C23A
+152	Cool Temperate	Dry	Sparsely or Non vegetated	Tablelands	Cool Temperate Dry	77	81	136	Cool Temperate Dry Sparsely or Non vegetated on Tablelands	#4D5188
+153	Cool Temperate	Dry	Grassland	Plains	Cool Temperate Dry	81	176	37	Cool Temperate Dry Grassland on Plains	#51B025
+154	Cool Temperate	Dry	Settlement	Hills	Cool Temperate Dry	122	154	61	Cool Temperate Dry Settlement on Hills	#7A9A3D
+155	Cool Temperate	Dry	Settlement	Tablelands	Cool Temperate Dry	81	96	152	Cool Temperate Dry Settlement on Tablelands	#516098
+156	Cool Temperate	Dry	Grassland	Tablelands	Cool Temperate Dry	107	121	172	Cool Temperate Dry Grassland on Tablelands	#6B79AC
+157	Cool Temperate	Dry	Settlement	Plains	Cool Temperate Dry	140	163	40	Cool Temperate Dry Settlement on Plains	#8CA328
+158	Cool Temperate	Dry	Settlement	Mountains	Cool Temperate Dry	111	110	35	Cool Temperate Dry Settlement on Mountains	#6F6E23
+159	Warm Temperate	Moist	Grassland	Plains	Warm Temperate Moist	91	184	24	Warm Temperate Moist Grassland on Plains	#5BB818
+160	Warm Temperate	Moist	Cropland	Plains	Warm Temperate Moist	105	207	54	Warm Temperate Moist Cropland on Plains	#69CF36
+161	Warm Temperate	Moist	Settlement	Plains	Warm Temperate Moist	163	170	28	Warm Temperate Moist Settlement on Plains	#A3AA1C
+162	Warm Temperate	Moist	Sparsely or Non vegetated	Plains	Warm Temperate Moist	141	205	53	Warm Temperate Moist Sparsely or Non vegetated on Plains	#8DCD35
+163	Warm Temperate	Moist	Forest	Hills	Warm Temperate Moist	47	146	24	Warm Temperate Moist Forest on Hills	#2F9218
+164	Warm Temperate	Moist	Grassland	Hills	Warm Temperate Moist	86	172	49	Warm Temperate Moist Grassland on Hills	#56AC31
+165	Warm Temperate	Moist	Shrubland	Hills	Warm Temperate Moist	88	172	29	Warm Temperate Moist Shrubland on Hills	#58AC1D
+166	Warm Temperate	Moist	Forest	Plains	Warm Temperate Moist	45	158	6	Warm Temperate Moist Forest on Plains	#2D9E06
+167	Warm Temperate	Moist	Shrubland	Plains	Warm Temperate Moist	101	184	9	Warm Temperate Moist Shrubland on Plains	#65B809
+168	Warm Temperate	Moist	Cropland	Hills	Warm Temperate Moist	112	198	86	Warm Temperate Moist Cropland on Hills	#70C656
+169	Warm Temperate	Moist	Settlement	Hills	Warm Temperate Moist	136	158	52	Warm Temperate Moist Settlement on Hills	#889E34
+170	Warm Temperate	Moist	Sparsely or Non vegetated	Hills	Warm Temperate Moist	137	195	87	Warm Temperate Moist Sparsely or Non vegetated on Hills	#89C357
+171	Warm Temperate	Moist	Grassland	Mountains	Warm Temperate Moist	86	129	14	Warm Temperate Moist Grassland on Mountains	#56810E
+172	Warm Temperate	Moist	Settlement	Mountains	Warm Temperate Moist	105	89	18	Warm Temperate Moist Settlement on Mountains	#695912
+173	Warm Temperate	Moist	Cropland	Mountains	Warm Temperate Moist	100	150	37	Warm Temperate Moist Cropland on Mountains	#649625
+174	Warm Temperate	Moist	Sparsely or Non vegetated	Mountains	Warm Temperate Moist	126	149	37	Warm Temperate Moist Sparsely or Non vegetated on Mountains	#7E9525
+175	Warm Temperate	Moist	Shrubland	Mountains	Warm Temperate Moist	102	130	4	Warm Temperate Moist Shrubland on Mountains	#668204
+176	Warm Temperate	Moist	Forest	Mountains	Warm Temperate Moist	49	105	3	Warm Temperate Moist Forest on Mountains	#316903
+177	Warm Temperate	Moist	Settlement	Tablelands	Warm Temperate Moist	62	63	152	Warm Temperate Moist Settlement on Tablelands	#3E3F98
+178	Warm Temperate	Moist	Cropland	Tablelands	Warm Temperate Moist	61	89	194	Warm Temperate Moist Cropland on Tablelands	#3D59C2
+179	Warm Temperate	Moist	Grassland	Tablelands	Warm Temperate Moist	50	73	167	Warm Temperate Moist Grassland on Tablelands	#3249A7
+180	Warm Temperate	Moist	Forest	Tablelands	Warm Temperate Moist	69	72	136	Warm Temperate Moist Forest on Tablelands	#454888
+181	Warm Temperate	Moist	Shrubland	Tablelands	Warm Temperate Moist	105	97	199	Warm Temperate Moist Shrubland on Tablelands	#6961C7
+182	Warm Temperate	Moist	Sparsely or Non vegetated	Tablelands	Warm Temperate Moist	91	113	125	Warm Temperate Moist Sparsely or Non vegetated on Tablelands	#5B717D
+183	Warm Temperate	Dry	Shrubland	Mountains	Warm Temperate Dry	144	160	38	Warm Temperate Dry Shrubland on Mountains	#90A026
+184	Warm Temperate	Dry	Cropland	Mountains	Warm Temperate Dry	141	179	80	Warm Temperate Dry Cropland on Mountains	#8DB350
+185	Warm Temperate	Dry	Settlement	Mountains	Warm Temperate Dry	144	124	59	Warm Temperate Dry Settlement on Mountains	#907C3B
+186	Warm Temperate	Dry	Grassland	Mountains	Warm Temperate Dry	132	162	55	Warm Temperate Dry Grassland on Mountains	#84A237
+187	Warm Temperate	Dry	Cropland	Plains	Warm Temperate Dry	155	228	99	Warm Temperate Dry Cropland on Plains	#9BE463
+188	Warm Temperate	Dry	Settlement	Plains	Warm Temperate Dry	189	190	72	Warm Temperate Dry Settlement on Plains	#BDBE48
+189	Warm Temperate	Dry	Grassland	Plains	Warm Temperate Dry	137	208	66	Warm Temperate Dry Grassland on Plains	#89D042
+190	Warm Temperate	Dry	Cropland	Hills	Warm Temperate Dry	153	217	128	Warm Temperate Dry Cropland on Hills	#99D980
+191	Warm Temperate	Dry	Settlement	Hills	Warm Temperate Dry	173	187	99	Warm Temperate Dry Settlement on Hills	#ADBB63
+192	Warm Temperate	Dry	Grassland	Hills	Warm Temperate Dry	133	198	95	Warm Temperate Dry Grassland on Hills	#85C65F
+193	Warm Temperate	Dry	Shrubland	Hills	Warm Temperate Dry	136	198	73	Warm Temperate Dry Shrubland on Hills	#88C649
+194	Warm Temperate	Dry	Forest	Mountains	Warm Temperate Dry	96	139	37	Warm Temperate Dry Forest on Mountains	#608B25
+195	Warm Temperate	Dry	Forest	Plains	Warm Temperate Dry	94	186	42	Warm Temperate Dry Forest on Plains	#5EBA2A
+196	Warm Temperate	Dry	Shrubland	Plains	Warm Temperate Dry	142	207	45	Warm Temperate Dry Shrubland on Plains	#8ECF2D
+197	Warm Temperate	Dry	Sparsely or Non vegetated	Hills	Warm Temperate Dry	176	217	128	Warm Temperate Dry Sparsely or Non vegetated on Hills	#B0D980
+198	Warm Temperate	Dry	Cropland	Tablelands	Warm Temperate Dry	95	117	206	Warm Temperate Dry Cropland on Tablelands	#5F75CE
+199	Warm Temperate	Dry	Forest	Hills	Warm Temperate Dry	91	175	66	Warm Temperate Dry Forest on Hills	#5BAF42
+200	Warm Temperate	Dry	Settlement	Tablelands	Warm Temperate Dry	95	96	169	Warm Temperate Dry Settlement on Tablelands	#5F60A9
+201	Warm Temperate	Dry	Sparsely or Non vegetated	Plains	Warm Temperate Dry	179	227	99	Warm Temperate Dry Sparsely or Non vegetated on Plains	#B3E363
+202	Warm Temperate	Dry	Forest	Tablelands	Warm Temperate Dry	100	103	156	Warm Temperate Dry Forest on Tablelands	#64679C
+203	Warm Temperate	Dry	Shrubland	Tablelands	Warm Temperate Dry	132	125	212	Warm Temperate Dry Shrubland on Tablelands	#847DD4
+204	Warm Temperate	Dry	Grassland	Tablelands	Warm Temperate Dry	82	103	184	Warm Temperate Dry Grassland on Tablelands	#5267B8
+205	Warm Temperate	Dry	Sparsely or Non vegetated	Mountains	Warm Temperate Dry	163	180	78	Warm Temperate Dry Sparsely or Non vegetated on Mountains	#A3B44E
+206	Warm Temperate	Dry	Sparsely or Non vegetated	Tablelands	Warm Temperate Dry	120	139	204	Warm Temperate Dry Sparsely or Non vegetated on Tablelands	#788BCC
+207	Cool Temperate	Desert	Sparsely or Non vegetated	Plains	Cool Temperate Desert	179	227	130	Cool Temperate Desert Sparsely or Non vegetated on Plains	#B3E382
+208	Cool Temperate	Desert	Sparsely or Non vegetated	Hills	Cool Temperate Desert	177	221	151	Cool Temperate Desert Sparsely or Non vegetated on Hills	#B1DD97
+209	Cool Temperate	Desert	Cropland	Plains	Cool Temperate Desert	160	227	131	Cool Temperate Desert Cropland on Plains	#A0E383
+210	Cool Temperate	Desert	Grassland	Plains	Cool Temperate Desert	150	214	112	Cool Temperate Desert Grassland on Plains	#96D670
+211	Cool Temperate	Desert	Cropland	Hills	Cool Temperate Desert	163	221	151	Cool Temperate Desert Cropland on Hills	#A3DD97
+212	Cool Temperate	Desert	Settlement	Plains	Cool Temperate Desert	195	208	116	Cool Temperate Desert Settlement on Plains	#C3D074
+213	Cool Temperate	Desert	Sparsely or Non vegetated	Mountains	Cool Temperate Desert	175	195	120	Cool Temperate Desert Sparsely or Non vegetated on Mountains	#AFC378
+214	Cool Temperate	Desert	Grassland	Hills	Cool Temperate Desert	149	208	130	Cool Temperate Desert Grassland on Hills	#95D082
+215	Cool Temperate	Desert	Settlement	Hills	Cool Temperate Desert	180	200	131	Cool Temperate Desert Settlement on Hills	#B4C883
+216	Cool Temperate	Desert	Sparsely or Non vegetated	Tablelands	Cool Temperate Desert	136	140	177	Cool Temperate Desert Sparsely or Non vegetated on Tablelands	#888CB1
+217	Cool Temperate	Dry	Snow and Ice	Mountains	Cool Temperate Dry	255	255	255	Cool Temperate Dry Snow and Ice on Mountains	#FFFFFF
+218	Warm Temperate	Desert	Sparsely or Non vegetated	Hills	Warm Temperate Desert	212	236	184	Warm Temperate Desert Sparsely or Non vegetated on Hills	#D4ECB8
+219	Cool Temperate	Desert	Grassland	Mountains	Cool Temperate Desert	152	183	105	Cool Temperate Desert Grassland on Mountains	#98B769
+220	Cool Temperate	Desert	Cropland	Mountains	Cool Temperate Desert	160	195	121	Cool Temperate Desert Cropland on Mountains	#A0C379
+221	Warm Temperate	Desert	Sparsely or Non vegetated	Plains	Warm Temperate Desert	220	243	160	Warm Temperate Desert Sparsely or Non vegetated on Plains	#DCF3A0
+222	Cool Temperate	Desert	Settlement	Mountains	Cool Temperate Desert	172	167	108	Cool Temperate Desert Settlement on Mountains	#ACA76C
+223	Warm Temperate	Desert	Sparsely or Non vegetated	Mountains	Warm Temperate Desert	204	211	145	Warm Temperate Desert Sparsely or Non vegetated on Mountains	#CCD391
+224	Warm Temperate	Desert	Sparsely or Non vegetated	Tablelands	Warm Temperate Desert	169	182	224	Warm Temperate Desert Sparsely or Non vegetated on Tablelands	#A9B6E0
+225	Warm Temperate	Desert	Settlement	Mountains	Warm Temperate Desert	188	174	128	Warm Temperate Desert Settlement on Mountains	#BCAE80
+226	Warm Temperate	Desert	Grassland	Mountains	Warm Temperate Desert	182	200	125	Warm Temperate Desert Grassland on Mountains	#B6C87D
+227	Warm Temperate	Desert	Cropland	Mountains	Warm Temperate Desert	189	211	143	Warm Temperate Desert Cropland on Mountains	#BDD38F
+228	Cool Temperate	Desert	Grassland	Tablelands	Cool Temperate Desert	159	168	202	Cool Temperate Desert Grassland on Tablelands	#9FA8CA
+229	Cool Temperate	Desert	Cropland	Tablelands	Cool Temperate Desert	173	171	206	Cool Temperate Desert Cropland on Tablelands	#ADABCE
+230	Warm Temperate	Desert	Grassland	Hills	Warm Temperate Desert	185	224	155	Warm Temperate Desert Grassland on Hills	#B9E09B
+231	Warm Temperate	Desert	Grassland	Plains	Warm Temperate Desert	189	231	135	Warm Temperate Desert Grassland on Plains	#BDE787
+232	Warm Temperate	Desert	Cropland	Hills	Warm Temperate Desert	201	237	183	Warm Temperate Desert Cropland on Hills	#C9EDB7
+233	Warm Temperate	Desert	Cropland	Plains	Warm Temperate Desert	198	243	160	Warm Temperate Desert Cropland on Plains	#C6F3A0
+234	Warm Temperate	Desert	Settlement	Plains	Warm Temperate Desert	221	217	141	Warm Temperate Desert Settlement on Plains	#DDD98D
+235	Warm Temperate	Desert	Cropland	Tablelands	Warm Temperate Desert	149	166	227	Warm Temperate Desert Cropland on Tablelands	#95A6E3
+236	Warm Temperate	Desert	Shrubland	Plains	Warm Temperate Desert	195	231	120	Warm Temperate Desert Shrubland on Plains	#C3E778
+237	Warm Temperate	Desert	Grassland	Tablelands	Warm Temperate Desert	142	157	211	Warm Temperate Desert Grassland on Tablelands	#8E9DD3
+238	Warm Temperate	Desert	Settlement	Tablelands	Warm Temperate Desert	149	150	204	Warm Temperate Desert Settlement on Tablelands	#9596CC
+239	Warm Temperate	Desert	Shrubland	Hills	Warm Temperate Desert	185	224	142	Warm Temperate Desert Shrubland on Hills	#B9E08E
+240	Warm Temperate	Desert	Settlement	Hills	Warm Temperate Desert	212	217	159	Warm Temperate Desert Settlement on Hills	#D4D99F
+241	Warm Temperate	Desert	Shrubland	Tablelands	Warm Temperate Desert	177	157	194	Warm Temperate Desert Shrubland on Tablelands	#B19DC2
+242	Cool Temperate	Desert	Forest	Plains	Cool Temperate Desert	122	200	96	Cool Temperate Desert Forest on Plains	#7AC860
+243	Warm Temperate	Desert	Shrubland	Mountains	Warm Temperate Desert	191	200	111	Warm Temperate Desert Shrubland on Mountains	#BFC86F
+244	Cool Temperate	Desert	Shrubland	Plains	Cool Temperate Desert	155	215	98	Cool Temperate Desert Shrubland on Plains	#9BD762
+245	Cool Temperate	Desert	Shrubland	Hills	Cool Temperate Desert	150	208	116	Cool Temperate Desert Shrubland on Hills	#96D074
+246	Cool Temperate	Desert	Shrubland	Mountains	Cool Temperate Desert	160	184	95	Cool Temperate Desert Shrubland on Mountains	#A0B85F
+247	Cool Temperate	Desert	Settlement	Tablelands	Cool Temperate Desert	141	150	191	Cool Temperate Desert Settlement on Tablelands	#8D96BF
+248	Cool Temperate	Desert	Shrubland	Tablelands	Cool Temperate Desert	185	194	238	Cool Temperate Desert Shrubland on Tablelands	#B9C2EE
+249	Warm Temperate	Desert	Forest	Mountains	Warm Temperate Desert	156	187	108	Warm Temperate Desert Forest on Mountains	#9CBB6C
+250	Warm Temperate	Desert	Forest	Hills	Warm Temperate Desert	157	210	136	Warm Temperate Desert Forest on Hills	#9DD288
+251	Boreal	Desert	Grassland	Mountains	Boreal Desert	152	167	148	Boreal Desert Grassland on Mountains	#98A794
+252	Boreal	Desert	Sparsely or Non vegetated	Mountains	Boreal Desert	125	191	206	Boreal Desert Sparsely or Non vegetated on Mountains	#7DBFCE
+253	Boreal	Desert	Cropland	Mountains	Boreal Desert	144	175	143	Boreal Desert Cropland on Mountains	#90AF8F
+254	Polar	Desert	Grassland	Mountains	Polar Desert	198	171	131	Polar Desert Grassland on Mountains	#C6AB83
+255	Boreal	Desert	Grassland	Plains	Boreal Desert	195	195	195	Boreal Desert Grassland on Plains	#C3C3C3
+256	Boreal	Desert	Cropland	Plains	Boreal Desert	195	195	195	Boreal Desert Cropland on Plains	#C3C3C3
+257	Boreal	Desert	Sparsely or Non vegetated	Tablelands	Boreal Desert	180	184	209	Boreal Desert Sparsely or Non vegetated on Tablelands	#B4B8D1
+258	Boreal	Desert	Grassland	Tablelands	Boreal Desert	255	255	255	Boreal Desert Grassland on Tablelands	#FFFFFF
+259	Warm Temperate	Desert	Forest	Plains	Warm Temperate Desert	159	217	115	Warm Temperate Desert Forest on Plains	#9FD973
+260	Cool Temperate	Desert	Forest	Hills	Cool Temperate Desert	255	255	255	Cool Temperate Desert Forest on Hills	#FFFFFF
+261	Sub Tropical	Moist	Shrubland	Mountains	Sub Tropical Moist	150	88	0	Sub Tropical Moist Shrubland on Mountains	#965800
+262	Sub Tropical	Moist	Forest	Mountains	Sub Tropical Moist	124	110	0	Sub Tropical Moist Forest on Mountains	#7C6E00
+263	Sub Tropical	Moist	Settlement	Hills	Sub Tropical Moist	180	131	44	Sub Tropical Moist Settlement on Hills	#B4832C
+264	Sub Tropical	Moist	Settlement	Mountains	Sub Tropical Moist	137	45	13	Sub Tropical Moist Settlement on Mountains	#892D0D
+265	Sub Tropical	Moist	Sparsely or Non vegetated	Hills	Sub Tropical Moist	226	228	77	Sub Tropical Moist Sparsely or Non vegetated on Hills	#E2E44D
+266	Sub Tropical	Dry	Settlement	Mountains	Sub Tropical Dry	156	76	31	Sub Tropical Dry Settlement on Mountains	#9C4C1F
+267	Sub Tropical	Moist	Cropland	Hills	Sub Tropical Moist	189	228	77	Sub Tropical Moist Cropland on Hills	#BDE44D
+268	Sub Tropical	Moist	Forest	Hills	Sub Tropical Moist	125	178	16	Sub Tropical Moist Forest on Hills	#7DB210
+269	Sub Tropical	Moist	Cropland	Mountains	Sub Tropical Moist	175	155	28	Sub Tropical Moist Cropland on Mountains	#AF9B1C
+270	Sub Tropical	Moist	Sparsely or Non vegetated	Mountains	Sub Tropical Moist	173	121	27	Sub Tropical Moist Sparsely or Non vegetated on Mountains	#AD791B
+271	Sub Tropical	Moist	Grassland	Mountains	Sub Tropical Moist	152	113	10	Sub Tropical Moist Grassland on Mountains	#98710A
+272	Sub Tropical	Dry	Cropland	Mountains	Sub Tropical Dry	188	184	45	Sub Tropical Dry Cropland on Mountains	#BCB82D
+273	Sub Tropical	Dry	Sparsely or Non vegetated	Mountains	Sub Tropical Dry	189	148	45	Sub Tropical Dry Sparsely or Non vegetated on Mountains	#BD942D
+274	Sub Tropical	Dry	Forest	Mountains	Sub Tropical Dry	148	149	21	Sub Tropical Dry Forest on Mountains	#949515
+275	Sub Tropical	Dry	Grassland	Mountains	Sub Tropical Dry	170	149	26	Sub Tropical Dry Grassland on Mountains	#AA951A
+276	Sub Tropical	Dry	Settlement	Plains	Sub Tropical Dry	206	135	36	Sub Tropical Dry Settlement on Plains	#CE8724
+277	Sub Tropical	Dry	Settlement	Hills	Sub Tropical Dry	194	155	61	Sub Tropical Dry Settlement on Hills	#C29B3D
+278	Sub Tropical	Dry	Cropland	Hills	Sub Tropical Dry	182	234	86	Sub Tropical Dry Cropland on Hills	#B6EA56
+279	Sub Tropical	Dry	Grassland	Hills	Sub Tropical Dry	173	211	55	Sub Tropical Dry Grassland on Hills	#ADD337
+280	Cool Temperate	Desert	Forest	Mountains	Cool Temperate Desert	129	171	94	Cool Temperate Desert Forest on Mountains	#81AB5E
+281	Sub Tropical	Dry	Sparsely or Non vegetated	Hills	Sub Tropical Dry	221	234	85	Sub Tropical Dry Sparsely or Non vegetated on Hills	#DDEA55
+282	Sub Tropical	Dry	Cropland	Plains	Sub Tropical Dry	203	246	54	Sub Tropical Dry Cropland on Plains	#CBF636
+283	Sub Tropical	Dry	Sparsely or Non vegetated	Plains	Sub Tropical Dry	245	237	53	Sub Tropical Dry Sparsely or Non vegetated on Plains	#F5ED35
+284	Sub Tropical	Dry	Shrubland	Plains	Sub Tropical Dry	221	212	21	Sub Tropical Dry Shrubland on Plains	#DDD415
+285	Sub Tropical	Dry	Shrubland	Hills	Sub Tropical Dry	194	211	37	Sub Tropical Dry Shrubland on Hills	#C2D325
+286	Sub Tropical	Dry	Shrubland	Mountains	Sub Tropical Dry	170	122	21	Sub Tropical Dry Shrubland on Mountains	#AA7A15
+287	Sub Tropical	Dry	Cropland	Tablelands	Sub Tropical Dry	183	176	255	Sub Tropical Dry Cropland on Tablelands	#B7B0FF
+288	Sub Tropical	Dry	Forest	Plains	Sub Tropical Dry	150	200	21	Sub Tropical Dry Forest on Plains	#96C815
+289	Sub Tropical	Dry	Grassland	Plains	Sub Tropical Dry	203	224	30	Sub Tropical Dry Grassland on Plains	#CBE01E
+290	Sub Tropical	Dry	Forest	Hills	Sub Tropical Dry	129	191	33	Sub Tropical Dry Forest on Hills	#81BF21
+291	Sub Tropical	Dry	Sparsely or Non vegetated	Tablelands	Sub Tropical Dry	146	157	212	Sub Tropical Dry Sparsely or Non vegetated on Tablelands	#929DD4
+292	Polar	Desert	Cropland	Mountains	Polar Desert	210	193	154	Polar Desert Cropland on Mountains	#D2C19A
+293	Sub Tropical	Dry	Shrubland	Tablelands	Sub Tropical Dry	124	133	233	Sub Tropical Dry Shrubland on Tablelands	#7C85E9
+294	Sub Tropical	Dry	Forest	Tablelands	Sub Tropical Dry	103	109	171	Sub Tropical Dry Forest on Tablelands	#676DAB
+295	Sub Tropical	Moist	Grassland	Hills	Sub Tropical Moist	175	200	40	Sub Tropical Moist Grassland on Hills	#AFC828
+296	Sub Tropical	Dry	Settlement	Tablelands	Sub Tropical Dry	120	133	177	Sub Tropical Dry Settlement on Tablelands	#7885B1
+297	Sub Tropical	Moist	Cropland	Plains	Sub Tropical Moist	217	243	41	Sub Tropical Moist Cropland on Plains	#D9F329
+298	Sub Tropical	Dry	Grassland	Tablelands	Sub Tropical Dry	198	204	249	Sub Tropical Dry Grassland on Tablelands	#C6CCF9
+299	Sub Tropical	Moist	Sparsely or Non vegetated	Plains	Sub Tropical Moist	240	212	41	Sub Tropical Moist Sparsely or Non vegetated on Plains	#F0D429
+300	Sub Tropical	Moist	Shrubland	Plains	Sub Tropical Moist	212	180	1	Sub Tropical Moist Shrubland on Plains	#D4B401
+301	Sub Tropical	Moist	Forest	Plains	Sub Tropical Moist	153	189	0	Sub Tropical Moist Forest on Plains	#99BD00
+302	Sub Tropical	Moist	Cropland	Tablelands	Sub Tropical Moist	166	158	253	Sub Tropical Moist Cropland on Tablelands	#A69EFD
+303	Sub Tropical	Moist	Forest	Tablelands	Sub Tropical Moist	73	78	152	Sub Tropical Moist Forest on Tablelands	#494E98
+304	Sub Tropical	Moist	Grassland	Tablelands	Sub Tropical Moist	182	190	249	Sub Tropical Moist Grassland on Tablelands	#B6BEF9
+305	Sub Tropical	Moist	Shrubland	Tablelands	Sub Tropical Moist	95	104	225	Sub Tropical Moist Shrubland on Tablelands	#5F68E1
+306	Polar	Desert	Sparsely or Non vegetated	Mountains	Polar Desert	215	208	199	Polar Desert Sparsely or Non vegetated on Mountains	#D7D0C7
+307	Sub Tropical	Moist	Shrubland	Hills	Sub Tropical Moist	197	200	18	Sub Tropical Moist Shrubland on Hills	#C5C812
+308	Sub Tropical	Moist	Settlement	Plains	Sub Tropical Moist	195	102	18	Sub Tropical Moist Settlement on Plains	#C36612
+309	Polar	Desert	Forest	Mountains	Polar Desert	183	183	171	Polar Desert Forest on Mountains	#B7B7AB
+310	Sub Tropical	Desert	Shrubland	Mountains	Sub Tropical Desert	204	182	111	Sub Tropical Desert Shrubland on Mountains	#CCB66F
+311	Sub Tropical	Moist	Grassland	Plains	Sub Tropical Moist	212	215	14	Sub Tropical Moist Grassland on Plains	#D4D70E
+312	Sub Tropical	Desert	Sparsely or Non vegetated	Mountains	Sub Tropical Desert	215	197	145	Sub Tropical Desert Sparsely or Non vegetated on Mountains	#D7C591
+313	Sub Tropical	Desert	Shrubland	Plains	Sub Tropical Desert	236	230	118	Sub Tropical Desert Shrubland on Plains	#ECE676
+314	Sub Tropical	Desert	Sparsely or Non vegetated	Plains	Sub Tropical Desert	255	255	165	Sub Tropical Desert Sparsely or Non vegetated on Plains	#FFFFA5
+315	Cool Temperate	Desert	Snow and Ice	Mountains	Cool Temperate Desert	255	255	255	Cool Temperate Desert Snow and Ice on Mountains	#FFFFFF
+316	Sub Tropical	Moist	Sparsely or Non vegetated	Tablelands	Sub Tropical Moist	124	133	201	Sub Tropical Moist Sparsely or Non vegetated on Tablelands	#7C85C9
+317	Boreal	Desert	Forest	Mountains	Boreal Desert	106	170	160	Boreal Desert Forest on Mountains	#6AAAA0
+318	Polar	Dry	Settlement	Tablelands	Polar Dry	112	118	211	Polar Dry Settlement on Tablelands	#7076D3
+319	Polar	Dry	Settlement	Hills	Polar Dry	188	174	159	Polar Dry Settlement on Hills	#BCAE9F
+320	Sub Tropical	Desert	Grassland	Mountains	Sub Tropical Desert	203	193	124	Sub Tropical Desert Grassland on Mountains	#CBC17C
+321	Polar	Desert	Snow and Ice	Mountains	Polar Desert	255	255	255	Polar Desert Snow and Ice on Mountains	#FFFFFF
+322	Sub Tropical	Desert	Grassland	Plains	Sub Tropical Desert	228	240	133	Sub Tropical Desert Grassland on Plains	#E4F085
+323	Boreal	Desert	Shrubland	Mountains	Boreal Desert	195	195	195	Boreal Desert Shrubland on Mountains	#C3C3C3
+324	Polar	Desert	Shrubland	Mountains	Polar Desert	198	155	120	Polar Desert Shrubland on Mountains	#C69B78
+325	Boreal	Desert	Settlement	Mountains	Boreal Desert	255	255	255	Boreal Desert Settlement on Mountains	#FFFFFF
+326	Boreal	Desert	Sparsely or Non vegetated	Plains	Boreal Desert	108	148	147	Boreal Desert Sparsely or Non vegetated on Plains	#6C9493
+327	Sub Tropical	Desert	Forest	Mountains	Sub Tropical Desert	189	186	107	Sub Tropical Desert Forest on Mountains	#BDBA6B
+328	Sub Tropical	Desert	Forest	Plains	Sub Tropical Desert	197	222	113	Sub Tropical Desert Forest on Plains	#C5DE71
+329	Sub Tropical	Desert	Shrubland	Tablelands	Sub Tropical Desert	169	176	241	Sub Tropical Desert Shrubland on Tablelands	#A9B0F1
+330	Sub Tropical	Desert	Settlement	Plains	Sub Tropical Desert	226	193	138	Sub Tropical Desert Settlement on Plains	#E2C18A
+331	Sub Tropical	Desert	Shrubland	Hills	Sub Tropical Desert	221	231	141	Sub Tropical Desert Shrubland on Hills	#DDE78D
+332	Tropical	Dry	Sparsely or Non vegetated	Plains	Tropical Dry	232	136	25	Tropical Dry Sparsely or Non vegetated on Plains	#E88819
+333	Tropical	Dry	Cropland	Plains	Tropical Dry	197	194	48	Tropical Dry Cropland on Plains	#C5C230
+334	Tropical	Dry	Sparsely or Non vegetated	Hills	Tropical Dry	183	172	72	Tropical Dry Sparsely or Non vegetated on Hills	#B7AC48
+335	Tropical	Dry	Shrubland	Hills	Tropical Dry	163	153	33	Tropical Dry Shrubland on Hills	#A39921
+336	Tropical	Dry	Cropland	Hills	Tropical Dry	173	189	72	Tropical Dry Cropland on Hills	#ADBD48
+337	Tropical	Dry	Settlement	Hills	Tropical Dry	150	105	50	Tropical Dry Settlement on Hills	#966932
+338	Tropical	Dry	Cropland	Mountains	Tropical Dry	148	122	40	Tropical Dry Cropland on Mountains	#947A28
+339	Tropical	Dry	Sparsely or Non vegetated	Mountains	Tropical Dry	146	99	40	Tropical Dry Sparsely or Non vegetated on Mountains	#926328
+340	Sub Tropical	Desert	Sparsely or Non vegetated	Hills	Sub Tropical Desert	237	243	181	Sub Tropical Desert Sparsely or Non vegetated on Hills	#EDF3B5
+341	Tropical	Dry	Shrubland	Plains	Tropical Dry	255	204	50	Tropical Dry Shrubland on Plains	#FFCC32
+342	Tropical	Dry	Shrubland	Mountains	Tropical Dry	126	72	21	Tropical Dry Shrubland on Mountains	#7E4815
+343	Tropical	Dry	Settlement	Plains	Tropical Dry	140	74	30	Tropical Dry Settlement on Plains	#8C4A1E
+344	Tropical	Dry	Grassland	Mountains	Tropical Dry	126	91	25	Tropical Dry Grassland on Mountains	#7E5B19
+345	Tropical	Dry	Settlement	Mountains	Tropical Dry	115	44	27	Tropical Dry Settlement on Mountains	#732C1B
+346	Sub Tropical	Desert	Cropland	Plains	Sub Tropical Desert	231	250	157	Sub Tropical Desert Cropland on Plains	#E7FA9D
+347	Sub Tropical	Desert	Sparsely or Non vegetated	Tablelands	Sub Tropical Desert	188	193	230	Sub Tropical Desert Sparsely or Non vegetated on Tablelands	#BCC1E6
+348	Sub Tropical	Moist	Settlement	Tablelands	Sub Tropical Moist	90	104	159	Sub Tropical Moist Settlement on Tablelands	#5A689F
+349	Sub Tropical	Desert	Cropland	Hills	Sub Tropical Desert	224	243	183	Sub Tropical Desert Cropland on Hills	#E0F3B7
+350	Sub Tropical	Desert	Cropland	Mountains	Sub Tropical Desert	210	211	142	Sub Tropical Desert Cropland on Mountains	#D2D38E
+351	Sub Tropical	Desert	Settlement	Mountains	Sub Tropical Desert	194	155	128	Sub Tropical Desert Settlement on Mountains	#C29B80
+352	Sub Tropical	Desert	Grassland	Hills	Sub Tropical Desert	215	234	156	Sub Tropical Desert Grassland on Hills	#D7EA9C
+353	Sub Tropical	Desert	Forest	Hills	Sub Tropical Desert	186	217	133	Sub Tropical Desert Forest on Hills	#BAD985
+354	Sub Tropical	Desert	Settlement	Hills	Sub Tropical Desert	220	204	157	Sub Tropical Desert Settlement on Hills	#DCCC9D
+355	Sub Tropical	Desert	Cropland	Tablelands	Sub Tropical Desert	212	207	255	Sub Tropical Desert Cropland on Tablelands	#D4CFFF
+356	Tropical	Dry	Sparsely or Non vegetated	Tablelands	Tropical Dry	96	96	150	Tropical Dry Sparsely or Non vegetated on Tablelands	#606096
+357	Sub Tropical	Desert	Settlement	Tablelands	Sub Tropical Desert	169	176	205	Sub Tropical Desert Settlement on Tablelands	#A9B0CD
+358	Tropical	Dry	Cropland	Tablelands	Tropical Dry	101	92	141	Tropical Dry Cropland on Tablelands	#655C8D
+359	Tropical	Dry	Grassland	Hills	Tropical Dry	165	170	49	Tropical Dry Grassland on Hills	#A5AA31
+360	Tropical	Dry	Grassland	Plains	Tropical Dry	255	143	27	Tropical Dry Grassland on Plains	#FF8F1B
+361	Tropical	Dry	Forest	Plains	Tropical Dry	152	163	19	Tropical Dry Forest on Plains	#98A313
+362	Tropical	Desert	Sparsely or Non vegetated	Plains	Tropical Desert	242	186	98	Tropical Desert Sparsely or Non vegetated on Plains	#F2BA62
+363	Tropical	Dry	Forest	Hills	Tropical Dry	128	149	31	Tropical Dry Forest on Hills	#80951F
+364	Tropical	Dry	Shrubland	Tablelands	Tropical Dry	153	117	205	Tropical Dry Shrubland on Tablelands	#9975CD
+365	Tropical	Dry	Forest	Mountains	Tropical Dry	110	90	22	Tropical Dry Forest on Mountains	#6E5A16
+366	Sub Tropical	Desert	Grassland	Tablelands	Sub Tropical Desert	220	224	255	Sub Tropical Desert Grassland on Tablelands	#DCE0FF
+367	Tropical	Desert	Cropland	Plains	Tropical Desert	220	218	114	Tropical Desert Cropland on Plains	#DCDA72
+368	Tropical	Dry	Settlement	Tablelands	Tropical Dry	119	108	175	Tropical Dry Settlement on Tablelands	#776CAF
+369	Tropical	Desert	Sparsely or Non vegetated	Mountains	Tropical Desert	200	160	109	Tropical Desert Sparsely or Non vegetated on Mountains	#C8A06D
+370	Tropical	Desert	Grassland	Plains	Tropical Desert	255	183	96	Tropical Desert Grassland on Plains	#FFB760
+371	Tropical	Desert	Grassland	Mountains	Tropical Desert	189	158	94	Tropical Desert Grassland on Mountains	#BD9E5E
+372	Tropical	Desert	Cropland	Mountains	Tropical Desert	200	180	109	Tropical Desert Cropland on Mountains	#C8B46D
+373	Tropical	Desert	Shrubland	Plains	Tropical Desert	255	227	116	Tropical Desert Shrubland on Plains	#FFE374
+374	Tropical	Desert	Sparsely or Non vegetated	Hills	Tropical Desert	226	220	138	Tropical Desert Sparsely or Non vegetated on Hills	#E2DC8A
+375	Tropical	Desert	Sparsely or Non vegetated	Tablelands	Tropical Desert	152	151	188	Tropical Desert Sparsely or Non vegetated on Tablelands	#9897BC
+376	Tropical	Desert	Shrubland	Mountains	Tropical Desert	188	141	90	Tropical Desert Shrubland on Mountains	#BC8D5A
+377	Tropical	Desert	Settlement	Mountains	Tropical Desert	179	117	98	Tropical Desert Settlement on Mountains	#B37562
+378	Tropical	Desert	Settlement	Plains	Tropical Desert	185	136	100	Tropical Desert Settlement on Plains	#B98864
+379	Tropical	Desert	Forest	Plains	Tropical Desert	245	237	156	Tropical Desert Forest on Plains	#F5ED9C
+380	Tropical	Desert	Cropland	Hills	Tropical Desert	217	230	138	Tropical Desert Cropland on Hills	#D9E68A
+381	Tropical	Desert	Settlement	Hills	Tropical Desert	206	168	122	Tropical Desert Settlement on Hills	#CEA87A
+382	Tropical	Dry	Grassland	Tablelands	Tropical Dry	94	97	176	Tropical Dry Grassland on Tablelands	#5E61B0
+383	Tropical	Desert	Grassland	Hills	Tropical Desert	214	218	118	Tropical Desert Grassland on Hills	#D6DA76
+384	Tropical	Desert	Settlement	Tablelands	Tropical Desert	167	158	206	Tropical Desert Settlement on Tablelands	#A79ECE
+385	Tropical	Desert	Cropland	Tablelands	Tropical Desert	153	148	180	Tropical Desert Cropland on Tablelands	#9994B4
+386	Tropical	Desert	Shrubland	Hills	Tropical Desert	214	204	103	Tropical Desert Shrubland on Hills	#D6CC67
+387	Tropical	Moist	Cropland	Plains	Tropical Moist	182	179	16	Tropical Moist Cropland on Plains	#B6B310
+388	Tropical	Moist	Settlement	Plains	Tropical Moist	116	44	3	Tropical Moist Settlement on Plains	#742C03
+389	Tropical	Moist	Forest	Plains	Tropical Moist	105	112	0	Tropical Moist Forest on Plains	#697000
+390	Tropical	Moist	Cropland	Hills	Tropical Moist	130	150	36	Tropical Moist Cropland on Hills	#829624
+391	Tropical	Moist	Cropland	Mountains	Tropical Moist	100	77	7	Tropical Moist Cropland on Mountains	#644D07
+392	Tropical	Moist	Forest	Mountains	Tropical Moist	58	43	0	Tropical Moist Forest on Mountains	#3A2B00
+393	Tropical	Moist	Grassland	Plains	Tropical Moist	255	116	1	Tropical Moist Grassland on Plains	#FF7401
+394	Tropical	Dry	Forest	Tablelands	Tropical Dry	120	139	204	Tropical Dry Forest on Tablelands	#788BCC
+395	Tropical	Moist	Sparsely or Non vegetated	Plains	Tropical Moist	255	244	6	Tropical Moist Sparsely or Non vegetated on Plains	#FFF406
+396	Tropical	Moist	Shrubland	Plains	Tropical Moist	255	190	18	Tropical Moist Shrubland on Plains	#FFBE12
+397	Tropical	Desert	Grassland	Tablelands	Tropical Desert	148	155	206	Tropical Desert Grassland on Tablelands	#949BCE
+398	Tropical	Moist	Forest	Hills	Tropical Moist	81	105	2	Tropical Moist Forest on Hills	#516902
+399	Warm Temperate	Moist	Snow and Ice	Mountains	Warm Temperate Moist	255	255	255	Warm Temperate Moist Snow and Ice on Mountains	#FFFFFF
+400	Sub Tropical	Desert	Forest	Tablelands	Sub Tropical Desert	159	162	204	Sub Tropical Desert Forest on Tablelands	#9FA2CC
+401	Tropical	Moist	Grassland	Mountains	Tropical Moist	80	48	0	Tropical Moist Grassland on Mountains	#503000
+402	Tropical	Moist	Sparsely or Non vegetated	Mountains	Tropical Moist	101	54	7	Tropical Moist Sparsely or Non vegetated on Mountains	#653607
+403	Tropical	Moist	Grassland	Hills	Tropical Moist	120	127	14	Tropical Moist Grassland on Hills	#787F0E
+404	Tropical	Moist	Shrubland	Mountains	Tropical Moist	78	32	0	Tropical Moist Shrubland on Mountains	#4E2000
+405	Tropical	Moist	Settlement	Mountains	Tropical Moist	66	10	0	Tropical Moist Settlement on Mountains	#420A00
+406	Tropical	Desert	Forest	Hills	Tropical Desert	182	202	103	Tropical Desert Forest on Hills	#B6CA67
+407	Tropical	Moist	Settlement	Hills	Tropical Moist	105	65	16	Tropical Moist Settlement on Hills	#694110
+408	Tropical	Moist	Shrubland	Hills	Tropical Moist	120	111	3	Tropical Moist Shrubland on Hills	#786F03
+409	Tropical	Moist	Forest	Tablelands	Tropical Moist	91	113	192	Tropical Moist Forest on Tablelands	#5B71C0
+410	Tropical	Moist	Shrubland	Tablelands	Tropical Moist	128	88	191	Tropical Moist Shrubland on Tablelands	#8058BF
+411	Tropical	Moist	Cropland	Tablelands	Tropical Moist	68	59	111	Tropical Moist Cropland on Tablelands	#443B6F
+412	Tropical	Desert	Shrubland	Tablelands	Tropical Desert	189	166	225	Tropical Desert Shrubland on Tablelands	#BDA6E1
+413	Tropical	Moist	Settlement	Tablelands	Tropical Moist	88	77	157	Tropical Moist Settlement on Tablelands	#584D9D
+414	Tropical	Moist	Grassland	Tablelands	Tropical Moist	64	66	159	Tropical Moist Grassland on Tablelands	#40429F
+415	Tropical	Moist	Sparsely or Non vegetated	Hills	Tropical Moist	144	135	35	Tropical Moist Sparsely or Non vegetated on Hills	#908723
+416	Tropical	Moist	Sparsely or Non vegetated	Tablelands	Tropical Moist	64	64	125	Tropical Moist Sparsely or Non vegetated on Tablelands	#40407D
+417	Tropical	Desert	Forest	Mountains	Tropical Desert	173	157	89	Tropical Desert Forest on Mountains	#AD9D59
+418	Tropical	Desert	Forest	Tablelands	Tropical Desert	169	182	224	Tropical Desert Forest on Tablelands	#A9B6E0
+419	Warm Temperate	Dry	Snow and Ice	Mountains	Warm Temperate Dry	255	255	255	Warm Temperate Dry Snow and Ice on Mountains	#FFFFFF
+420	Cool Temperate	Dry	Snow and Ice	Plains	Cool Temperate Dry	255	255	255	Cool Temperate Dry Snow and Ice on Plains	#FFFFFF
+421	Polar	Desert	Sparsely or Non vegetated	Tablelands	Polar Desert	255	255	255	Polar Desert Sparsely or Non vegetated on Tablelands	#FFFFFF
+422	Polar	Desert	Settlement	Tablelands	Polar Desert	255	255	255	Polar Desert Settlement on Tablelands	#FFFFFF
+423	Polar	Desert	Shrubland	Tablelands	Polar Desert	255	255	255	Polar Desert Shrubland on Tablelands	#FFFFFF
+424	Polar	Desert	Sparsely or Non vegetated	Plains	Polar Desert	255	255	255	Polar Desert Sparsely or Non vegetated on Plains	#FFFFFF
+425	Polar	Desert	Shrubland	Plains	Polar Desert	255	255	255	Polar Desert Shrubland on Plains	#FFFFFF
+426	Polar	Desert	Cropland	Plains	Polar Desert	255	255	255	Polar Desert Cropland on Plains	#FFFFFF
+427	Polar	Desert	Forest	Plains	Polar Desert	255	255	255	Polar Desert Forest on Plains	#FFFFFF
+428	Polar	Desert	Settlement	Mountains	Polar Desert	255	255	255	Polar Desert Settlement on Mountains	#FFFFFF
+429	Warm Temperate	Desert	Forest	Tablelands	Warm Temperate Desert	153	157	195	Warm Temperate Desert Forest on Tablelands	#999DC3
+430	Polar	Desert	Grassland	Tablelands	Polar Desert	255	255	255	Polar Desert Grassland on Tablelands	#FFFFFF
+431	Polar	Desert	Grassland	Plains	Polar Desert	255	255	255	Polar Desert Grassland on Plains	#FFFFFF
